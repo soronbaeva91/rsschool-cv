@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+    padding: 0px 20px;
+    background-color: #000;
+    color: white;
+    font-family: sans-serif;
+}
+nav {
+    width: 40%;
+}
+nav ul { 
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+nav ul li a:hover {
+    color:aquamarine;
+}
+.photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url("assets/img/me.jpeg");
+    background-size: cover;
+    margin: 30px auto;
+}
+h2 {
+    font-family: sans-serif;
+    text-decoration: underline;
+    color: aquamarine;
+    text-align: center;
+    padding: 30px 0px;
+}
+.description {
+    font-family: sans-serif;
+}
+.about {
+    width: 80%;
+    margin: auto;
+}
+.education {
+    width: 80%;
+    margin: auto;
+}
+.ed_item {
+    margin-bottom: 30px;
+}
+.year {
+    height: 30px;
+    width: 200px;
+    font-family: sans-serif;
+    font-weight: 800;
+    background-color: aquamarine;
+    padding: 5px;
+}
+.experience {
+    width: 80%;
+    margin: auto;
+}
