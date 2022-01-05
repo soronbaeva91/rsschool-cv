@@ -1,1 +1,1 @@
-https://soronbaeva91.github.io/rsschool-cv/
+https://soronbaeva91.github.io/rsschool-cv/index
