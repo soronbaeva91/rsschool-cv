@@ -96,6 +96,10 @@ h2 {
     margin: auto;
 }
 
+.profileDescription ul, .contactss ul {
+    list-style: none;
+}
+
 .column {
     display: flex;
     flex-direction: row;
