@@ -178,3 +178,8 @@ footer {
     text-decoration: none;
     color: #000;
 }
+pre {
+    background: silver;
+    padding: 20px;
+    font-size: 14px;
+}
